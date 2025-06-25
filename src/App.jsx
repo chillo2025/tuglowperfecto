@@ -1,4 +1,9 @@
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import ProductCard from './components/ProductCard';
 import Checkout from './components/Checkout';
+import { products } from './products.6';
 
 export default function App() {
   return (
